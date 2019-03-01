@@ -25,4 +25,4 @@
 # THE SOFTWARE.
 
 include_recipe 'chef-client::default'
-include_recipe 'chef-client-updater'
+include_recipe 'chef_client_updater' 
